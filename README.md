@@ -1,6 +1,3 @@
-# d3.js-network-topology
-网络拓扑图
+# wl-d3
+d3可视化库
 
-## 效果
-
-![效果图](img/result.gif)

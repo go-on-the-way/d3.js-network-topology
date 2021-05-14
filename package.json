@@ -1,0 +1,24 @@
+{
+  "name": "d3.js-network-topology",
+  "version": "1.0.0",
+  "description": "d3可视化库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go-on-the-way/d3.js-network-topology.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/go-on-the-way/d3.js-network-topology/issues"
+  },
+  "homepage": "https://github.com/go-on-the-way/d3.js-network-topology#readme",
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
